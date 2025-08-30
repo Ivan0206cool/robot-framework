@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3.2 (Python 3.13.3 on linux)" generated="2025-08-26T03:30:38.184180" rpa="false" schemaversion="5">
+<suite id="s1" name="Robot-Framework" source="/home/ivan-hsu/git_practice/robot-framework">
+<suite id="s1-s1" name="First" source="/home/ivan-hsu/git_practice/robot-framework/first.robot">
+<test id="s1-s1-t1" name="First Test Case" line="6">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Hello world</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-08-26T03:30:38.508494" elapsed="0.002274"/>
+</kw>
+<doc>This test logs 'Hello world' to the console</doc>
+<status status="PASS" start="2025-08-26T03:30:38.490955" elapsed="0.021047"/>
+</test>
+<doc>This is the test suite for logging 'Hello world' to the console.</doc>
+<status status="PASS" start="2025-08-26T03:30:38.475978" elapsed="0.075328"/>
+</suite>
+<status status="PASS" start="2025-08-26T03:30:38.193156" elapsed="0.449061"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Robot-Framework" id="s1" pass="1" fail="0" skip="0">Robot-Framework</stat>
+<stat name="First" id="s1-s1" pass="1" fail="0" skip="0">Robot-Framework.First</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
