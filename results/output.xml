@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 7.3.2 (Python 3.13.3 on linux)" generated="2025-08-26T03:30:38.184180" rpa="false" schemaversion="5">
-<suite id="s1" name="Robot-Framework" source="/home/ivan-hsu/git_practice/robot-framework">
-<suite id="s1-s1" name="First" source="/home/ivan-hsu/git_practice/robot-framework/first.robot">
+<robot generator="Robot 7.3.2 (Python 3.13.0b3 on linux)" generated="2025-08-30T17:30:26.258810" rpa="false" schemaversion="5">
+<suite id="s1" name="Robot-Framework" source="/home/ivan-hsu/Desktop/github/robot-framework">
+<suite id="s1-s1" name="First" source="/home/ivan-hsu/Desktop/github/robot-framework/first.robot">
 <test id="s1-s1-t1" name="First Test Case" line="6">
 <kw name="Log To Console" owner="BuiltIn">
 <arg>Hello world</arg>
 <doc>Logs the given message to the console.</doc>
-<status status="PASS" start="2025-08-26T03:30:38.508494" elapsed="0.002274"/>
+<status status="PASS" start="2025-08-30T17:30:26.279451" elapsed="0.000293"/>
 </kw>
 <doc>This test logs 'Hello world' to the console</doc>
-<status status="PASS" start="2025-08-26T03:30:38.490955" elapsed="0.021047"/>
+<status status="PASS" start="2025-08-30T17:30:26.276682" elapsed="0.003275"/>
 </test>
 <doc>This is the test suite for logging 'Hello world' to the console.</doc>
-<status status="PASS" start="2025-08-26T03:30:38.475978" elapsed="0.075328"/>
+<status status="PASS" start="2025-08-30T17:30:26.274716" elapsed="0.007678"/>
 </suite>
-<status status="PASS" start="2025-08-26T03:30:38.193156" elapsed="0.449061"/>
+<status status="PASS" start="2025-08-30T17:30:26.261061" elapsed="0.022904"/>
 </suite>
 <statistics>
 <total>
